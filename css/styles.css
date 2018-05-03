@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.all-caps {
+    text-transform: uppercase;
+    text-align: right;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.header-text {
+    text-align: right;
+}
+
+.header-content {
+    padding: 30px 0;
+    margin-bottom: 30px;
+    border-bottom: solid 5px #aaa;
+}
+
+.color-filled {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+.color-box {
+    padding-bottom: 10px;
+}
+
+#main-img {
+    max-width: 100%;
+}
+
+.color-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+p {
+    padding: 10px 0;
+}
+
+.centered {
+    text-align: center;
+}
+
+.featured-work-instance,
+.featured-work {
+    padding: 20px 0;
+}
+
+.project-img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    padding: 0 10px;
+}
+
+span {
+    display: block;
+    width: 270px;
+    word-wrap: break-word;
+    margin: auto;
+}
+
+.logo-attribution {
+    font-size: 0.3em;
+    text-align: center;
+}
+
+h3 {
+    padding: 10px 0;
+    text-transform: uppercase;
+}
