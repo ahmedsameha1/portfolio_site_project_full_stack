@@ -35,14 +35,8 @@
     padding-bottom: 10px;
 }
 
-#main-img {
-    max-width: 100%;
-}
-
 .color-img {
     max-width: 100%;
-    height: auto;
-    display: block;
     margin: auto;
 }
 
@@ -61,8 +55,6 @@ p {
 
 .project-img {
     max-width: 100%;
-    display: block;
-    height: auto;
     padding: 0 10px;
 }
 
